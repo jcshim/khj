@@ -1,5 +1,3 @@
----
-
 ### **PCB 설계의 보안 및 복제 방지 기법 연구**
 
 #### **요약**  
@@ -51,14 +49,4 @@ PCB 설계 보호는 단일 기술만으로는 충분하지 않으며 설계-제
 
 ---
 
-#### **참고문헌**[1] IPC 브릿지, "회로가 회로 기판을 복제하는 것을 방지하는 조치," https://www.ipcb.kr/news/745.html (2025). 김성준, "인쇄회로기판 보안 및 복제방지회로," 특허번호: 10-0922405 (2009). 최지원 외, "물리적으로 복제 불가능한 기능(PUF)을 활용한 역공학 방지 기법," Journal of Korea Society of Industrial Information Systems Vol. 29 No.3 (2024).  
-
---- 
-
-필요하면 추가 수정 요청해줘!
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/22033579/eb4e6409-741a-4040-aba0-1469f8d93823/PCB-seolgyeyi-boan-mic-bogje-bangji-gibeob-yeongu_meoltihaghoehagsulbalpyodaehoe_v1.0.pdf
-
----
-Perplexity로부터의 답변: pplx.ai/share
+#### **참고문헌**[1] IPC 브릿지, "회로가 회로 기판을 복제하는 것을 방지하는 조치," https://www.ipcb.kr/news/745.html (2025). 김성준, "인쇄회로기판 보안 및 복제방지회로," 특허번호: 10-0922405 (2009). 최지원 외, "물리적으로 복제 불가능한 기능(PUF)을 활용한 역공학 방지 기법," Journal of Korea Society of Industrial Information Systems Vol. 29 No.3 (2024).
